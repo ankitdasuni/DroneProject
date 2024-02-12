@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+#this is a project for iitr tech fest 
 # Function to align images using SIFT keypoints and descriptors
 def align_images(img1, img2):
     # Initialize SIFT detector
